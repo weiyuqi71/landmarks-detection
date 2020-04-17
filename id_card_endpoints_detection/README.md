@@ -22,7 +22,7 @@ Here are some sample images in the dataset:
 In this project, we write a neuron network, model summary are shown below:
 
 <p align="center">
-<img src="images/7.png" width=300>
+<img src="images/7.png" width=400>
 </p>
 
 
