@@ -57,7 +57,7 @@ prediction(imagepath)
 ```
 sample：
 <p align="center">
-<img  src="outputs/7.png" alt="output" width="450"/>
+<img  src="outputs/8.png" alt="output" width="450"/>
 </p>
 
 **2. reshape to rectangle**
@@ -71,5 +71,5 @@ face_mask(imagepath,mask_id,crop)
 ```
 sample：
 <p align="center">
-<img  src="outputs/8.png" alt="output" width="450"/>
+<img  src="outputs/7.png" alt="output" width="450"/>
 </p>
