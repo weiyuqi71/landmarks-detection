@@ -35,7 +35,7 @@ optimizer = optim.Adam(params = net.parameters(), lr = 0.001)
 scheduler=optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.1, patience=10, threshold=0.0001, verbose=True)
 ```
 <p align="center">
-<img  src="loss_curve.png" alt="loss curve" width="450"/>
+<img  src="loss curve.png" alt="loss curve" width="450"/>
 </p>
 
 And here are some of the keypoints detection results for the test images:
